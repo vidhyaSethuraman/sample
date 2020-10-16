@@ -2,21 +2,21 @@
   "files": {
     "main.js": "/sample/static/js/main.432971b4.chunk.js",
     "main.js.map": "/sample/static/js/main.432971b4.chunk.js.map",
-    "runtime-main.js": "/sample/static/js/runtime-main.24e26346.js",
-    "runtime-main.js.map": "/sample/static/js/runtime-main.24e26346.js.map",
+    "runtime-main.js": "/sample/static/js/runtime-main.b4d96662.js",
+    "runtime-main.js.map": "/sample/static/js/runtime-main.b4d96662.js.map",
     "static/js/2.a7b1377b.chunk.js": "/sample/static/js/2.a7b1377b.chunk.js",
     "static/js/2.a7b1377b.chunk.js.map": "/sample/static/js/2.a7b1377b.chunk.js.map",
     "static/css/3.9a9a1f6f.chunk.css": "/sample/static/css/3.9a9a1f6f.chunk.css",
     "static/js/3.1c76ca27.chunk.js": "/sample/static/js/3.1c76ca27.chunk.js",
     "static/js/3.1c76ca27.chunk.js.map": "/sample/static/js/3.1c76ca27.chunk.js.map",
     "static/css/4.7fa948ea.chunk.css": "/sample/static/css/4.7fa948ea.chunk.css",
-    "static/js/4.e082cec6.chunk.js": "/sample/static/js/4.e082cec6.chunk.js",
-    "static/js/4.e082cec6.chunk.js.map": "/sample/static/js/4.e082cec6.chunk.js.map",
+    "static/js/4.3c0782e1.chunk.js": "/sample/static/js/4.3c0782e1.chunk.js",
+    "static/js/4.3c0782e1.chunk.js.map": "/sample/static/js/4.3c0782e1.chunk.js.map",
     "static/css/5.d0bf3954.chunk.css": "/sample/static/css/5.d0bf3954.chunk.css",
     "static/js/5.46b5e8af.chunk.js": "/sample/static/js/5.46b5e8af.chunk.js",
     "static/js/5.46b5e8af.chunk.js.map": "/sample/static/js/5.46b5e8af.chunk.js.map",
     "index.html": "/sample/index.html",
-    "precache-manifest.5417207caac753dade2a4a2b6e13cafd.js": "/sample/precache-manifest.5417207caac753dade2a4a2b6e13cafd.js",
+    "precache-manifest.8bc2af7dcc73ad5d03ae5da047a4c5ee.js": "/sample/precache-manifest.8bc2af7dcc73ad5d03ae5da047a4c5ee.js",
     "service-worker.js": "/sample/service-worker.js",
     "static/css/3.9a9a1f6f.chunk.css.map": "/sample/static/css/3.9a9a1f6f.chunk.css.map",
     "static/css/4.7fa948ea.chunk.css.map": "/sample/static/css/4.7fa948ea.chunk.css.map",
@@ -26,7 +26,7 @@
     "static/media/banner1.jpeg": "/sample/static/media/banner1.ecdfbd38.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.24e26346.js",
+    "static/js/runtime-main.b4d96662.js",
     "static/js/2.a7b1377b.chunk.js",
     "static/js/main.432971b4.chunk.js"
   ]

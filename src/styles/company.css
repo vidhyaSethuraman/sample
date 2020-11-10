@@ -1,0 +1,68 @@
+
+.obj-desc-heading{
+    padding-right:100px !important;
+}
+
+ .add-obj-btn{
+   
+    position: relative;
+    top:10px;
+ }
+
+ .dlt-btn{
+     position: relative;
+     top:5x;
+ }
+
+ .dept-tag-co{
+     position: relative;
+     right:20px;
+     
+ }
+
+ .container-info{
+     margin-left: 350px;
+     margin-right: 50px;
+     
+ }
+
+
+ .dashboard-logo{
+    font-size:35px !important;
+    margin-top:5px ;
+    margin-right:2px !important;
+    margin-left:10px !important;
+ }
+
+
+ @media (max-width:1038px) { 
+    .container-info {
+        margin-left: 30px;
+        width:30rem; 
+    }
+    .dashboard-logo{
+        font-size:20px ;
+        margin-top:0px ;
+    }
+}
+
+
+.utility-dd{
+    width:170px !important;
+}
+
+.input-field input:focus {
+    border-bottom: 1px solid rgb(243, 188, 50) !important;
+  }
+
+
+.modal-edit-inp::placeholder{
+    color:black;
+}
+
+
+
+
+.emp-modal {
+    width: 70% !important;
+}
